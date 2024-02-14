@@ -11,8 +11,8 @@ admin can add user data and allow user to give quiz after their result will be d
 ![Screenshot 2024-02-14 164420](https://github.com/saarim95/Quiz-Portal-Software-by-using-Python-and-MySQL/assets/140258820/33069fed-0273-4c69-b71f-54ce9217d508)
 
 
-these![Screenshot 2024-02-14 164428](https://github.com/saarim95/Quiz-Portal-Software-by-using-Python-and-MySQL/assets/140258820/346eefe9-5a07-41a4-b482-bbd4a2360b85)
- are some sql queries for backend in the software. <br>
+![Screenshot 2024-02-14 164428](https://github.com/saarim95/Quiz-Portal-Software-by-using-Python-and-MySQL/assets/140258820/346eefe9-5a07-41a4-b482-bbd4a2360b85)
+these are some SQL queries for backend in the software. <br>
 <img width="251" alt="Screenshot 2024-02-13 123741" src="https://github.com/saarim95/Quiz-Portal-Software-by-using-Python-and-MySQL/assets/140258820/d2ce0790-3354-45a6-be71-fd81cc0cfee7">
 <img width="233" alt="Screenshot 2024-02-13 123609" src="https://github.com/saarim95/Quiz-Portal-Software-by-using-Python-and-MySQL/assets/140258820/52b73cb0-fa53-420d-bfb3-d8197f781a7e">
 <img width="876" alt="Screenshot 2024-02-13 123655" src="https://github.com/saarim95/Quiz-Portal-Software-by-using-Python-and-MySQL/assets/140258820/8a8bc445-e821-4b28-a539-744e3ba72f88">
